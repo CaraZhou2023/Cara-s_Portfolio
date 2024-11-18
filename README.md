@@ -1,7 +1,6 @@
-# Cara Zhou‘s Data Analytics Portfolio
 _in progress_
 
-**1. Analysis of the Visual Style Impact on Pets Donation’s Willingness** | April 2024
+## 1. Analysis of the Visual Style Impact on Pets Donation’s Willingness | April 2024
 
 **Tools & Skills:** R, Qualtrics, Survey Design, A/B Testing
 
