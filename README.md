@@ -1,10 +1,11 @@
 _in progress_
 
 ## 1. Analysis of the Visual Style Impact on Pets Donation’s Willingness | April 2024
+This project is to evaluate the effectiveness of different visual styles of emails for animal shelter donations and provide insights for animal shelter's marketing strategies.
 
-**Tools & Skills:** R, Qualtrics, Survey Design, A/B Testing
+- Tools & Skills:
+  - R, Qualtrics, Survey Design, A/B Testing
 
-- Overview: This project is to evaluate the effectiveness of different visual styles of emails for animal shelter donations and provide insights for animal shelter's marketing strategies.
 - Responsiblities:
   - Designed and distributed surveys using Qualtrics, setting a randomizer to compare the performance of two types of email.
   - Cleaned survey data in R; Excluded 15% invalid results based on EDA to ensure accuracy for analysis.
