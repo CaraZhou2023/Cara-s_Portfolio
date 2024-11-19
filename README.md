@@ -1,5 +1,5 @@
 
-## [1. Analysis of the Visual Style Impact on Pets Donation’s Willingness](https://github.com/CaraZhou2023/Analysis-of-Email-Visual-Style-Impact.git) | April 2024
+## [1. \[R\] Analysis of the Visual Style Impact on Pets Donation’s Willingness](https://github.com/CaraZhou2023/Analysis-of-Email-Visual-Style-Impact.git) | April 2024
 This project is to evaluate the effectiveness of different visual styles of emails for animal shelter donations and provide insights for animal shelter's marketing strategies.
 
 - Tools & Skills: R, Qualtrics, Survey Design, A/B Testing
@@ -13,7 +13,7 @@ This project is to evaluate the effectiveness of different visual styles of emai
 <img src="images/Animals.png" alt="Survey Result EDA (R)" width="400">
 
 ---
-## 2.Assessing Operating Profitability's Influence on Excess Returns Across Firm Sizes | April 2024
+## 2. \[Python\] Assessing Operating Profitability's Influence on Excess Returns Across Firm Sizes | April 2024
 The goal is to testify whether OP (Operating Profitability) is a powerful explaining factor for excess return of the stock market across firm sizes and compare our results to the bivariate-sort portfolios with the same factors from Kenneth R. French website.
 
 - Tools & Skills: Python, Excel (Visualization)
@@ -31,7 +31,7 @@ The goal is to testify whether OP (Operating Profitability) is a powerful explai
 
 ---
 
-## [3. Identifying Mental Health Issues in the Tech Industry](https://github.com/CaraZhou2023/Identifying-Mental-Health-Issues-in-the-Tech-Industry.git) | February 2024
+## [3. \[Python\] Identifying Mental Health Issues in the Tech Industry](https://github.com/CaraZhou2023/Identifying-Mental-Health-Issues-in-the-Tech-Industry.git) | February 2024
 The goal of this project is to predict if an employee should seek treatment based on the selected features from the survey.
 
 - Tools & Skills: Python (Pandas, Sklearn, Seaborn, and Matplotlib), Data Cleaning and Preprocessing, Prediction Modeling, Model evaluation.
