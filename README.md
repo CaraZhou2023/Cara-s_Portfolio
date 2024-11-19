@@ -13,7 +13,7 @@ This project is to evaluate the effectiveness of different visual styles of emai
 <img src="images/Animals.png" alt="Survey Result EDA (R)" width="400">
 
 ---
-## [2.Assessing Operating Profitability's Influence on Excess Returns Across Firm Sizes] | April 2024
+## 2.Assessing Operating Profitability's Influence on Excess Returns Across Firm Sizes | April 2024
 The goal is to testify whether OP (Operating Profitability) is a powerful explaining factor for excess return of the stock market across firm sizes and compare our results to the bivariate-sort portfolios with the same factors from Kenneth R. French website.
 
 - Tools & Skills: Python, Excel (Visualization)
