@@ -13,7 +13,7 @@ This project is to evaluate the effectiveness of different visual styles of emai
 <img src="images/Animals.png" alt="Survey Result EDA (R)" width="400">
 
 ---
-## 2. \[Python\] Assessing Operating Profitability's Influence on Excess Returns Across Firm Sizes | April 2024
+## [2. \[Python\] Assessing Operating Profitability's Influence on Excess Returns Across Firm Sizes](https://github.com/CaraZhou2023/op-profitability-firm-size.git) | April 2024
 The goal is to testify whether OP (Operating Profitability) is a powerful explaining factor for excess return of the stock market across firm sizes and compare our results to the bivariate-sort portfolios with the same factors from Kenneth R. French website.
 
 - Tools & Skills: Python, Excel (Visualization)
@@ -45,3 +45,18 @@ The goal of this project is to predict if an employee should seek treatment base
 ![image](https://github.com/user-attachments/assets/89ef3705-e60f-42b6-b918-51777207cba4)
 
 ---
+
+
+## [4. \[Tableau\] Yelp Dataset Analysis and Visualization Project](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| October 2024
+The goal of this project is to predict if an employee should seek treatment based on the selected features from the survey.
+
+- Tools & Skills: Tableau.
+
+- Achievements/Findings:
+  - COVID-19 has brought a dramatic decrease in reviews numbers began in 2019 and continued to lead to a -94% YOY drop in 2021.
+  - There is a significant positive correlation between the users' review numbers and thier fan volumes. 
+  
+**Yelp Users Analytics - Story Board**
+
+<img src="images/Animals.png" alt="Survey Result EDA (R)" width="400">
+
