@@ -47,7 +47,21 @@ The goal of this project is to predict if an employee should seek treatment base
 ---
 
 
-## [4. \[Tableau\] Yelp Dataset Analysis and Visualization Project](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| October 2024
+## [4. \[Power BI\] Healthcare Analytics in Power BI ](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| December 2024
+This is a Power BI visualization project completed as part of a DataCamp course.
+
+- Tools & Skills: Power BI.
+
+**Dashboard - LOS Comparison**
+
+![image](https://github.com/user-attachments/assets/ff4f8191-5ddf-4b98-90ab-27554e961e41)
+  
+
+
+---
+
+
+## [5. \[Tableau\] Yelp Dataset Analysis and Visualization Project ](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| October 2024
 The goal of this project is to predict if an employee should seek treatment based on the selected features from the survey.
 
 - Tools & Skills: Tableau.
@@ -55,8 +69,10 @@ The goal of this project is to predict if an employee should seek treatment base
 - Achievements/Findings:
   - COVID-19 has brought a dramatic decrease in reviews numbers began in 2019 and continued to lead to a -94% YOY drop in 2021.
   - There is a significant positive correlation between the users' review numbers and thier fan volumes. 
+
   
 **Yelp Users Analytics - Story Board**
 
-<img src="images/Animals.png" alt="Survey Result EDA (R)" width="400">
+![image](https://github.com/user-attachments/assets/28ae62e9-b11f-4482-98e4-56b9d2e10a7a)
+
 
