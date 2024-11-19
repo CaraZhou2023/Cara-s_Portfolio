@@ -1,6 +1,6 @@
 _in progress_
 
-## 1. Analysis of the Visual Style Impact on Pets Donation’s Willingness | April 2024
+## [1. Analysis of the Visual Style Impact on Pets Donation’s Willingness](https://github.com/CaraZhou2023/Analysis-of-Email-Visual-Style-Impact.git) | April 2024
 This project is to evaluate the effectiveness of different visual styles of emails for animal shelter donations and provide insights for animal shelter's marketing strategies.
 
 - Tools & Skills:
