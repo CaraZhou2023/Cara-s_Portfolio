@@ -1,3 +1,4 @@
+Please click the title to visit the project's repository page.
 
 ## [1. \[R\] Analysis of the Visual Style Impact on Pets Donation’s Willingness](https://github.com/CaraZhou2023/Analysis-of-Email-Visual-Style-Impact.git) | April 2024
 This project is to evaluate the effectiveness of different visual styles of emails for animal shelter donations and provide insights for animal shelter's marketing strategies.
@@ -46,11 +47,28 @@ The goal of this project is to predict if an employee should seek treatment base
 
 ---
 
+## [4. \[Python & Power BI\] Retail_Employee_Turnover_Analysis](https://github.com/CaraZhou2023/Retail_Employee_Turnover_Analysis.git) | February 2024
+This project is to analyze a real-world retail Canadian retail company's (refered as "CanadaRetail" in the report) employee turnover situation and provide actionable insights to lower down turnover rate.
 
-## [4. \[Power BI\] Healthcare Analytics in Power BI ](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| December 2024
+- Tools & Skills: Python (Pandas, Sklearn, scipy, and plotly), Data Cleaning and Preprocessing, Data Visualization, Power BI.
+
+- Achievements/Findings:
+  - Discovered that employees who scored lower on Persuasion Skills and Cognitive Ability during hiring process are more likely to leave.
+  - Uncovered a significant difference in salary between male and female employees.
+
+**Interactive Correlation Heatmap**
+
+<img src="images/Heatmap_turnover.png" alt="Heatmap of Correlation" width="400">
+
+
+---
+
+
+
+## [5. \[Power BI\] Healthcare Analytics in Power BI ](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| December 2024
 This is a Power BI visualization project completed as part of a DataCamp course.
 
-- Tools & Skills: Power BI.
+- Tools & Skills: Power BI, DAX.
 
 **Dashboard - LOS Comparison**
 
@@ -61,7 +79,7 @@ This is a Power BI visualization project completed as part of a DataCamp course.
 ---
 
 
-## [5. \[Tableau\] Yelp Dataset Analysis and Visualization Project ](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| October 2024
+## [6. \[Tableau\] Yelp Dataset Analysis and Visualization Project ](https://github.com/CaraZhou2023/Yelp_Tableau_Project.git)| October 2024
 The goal of this project is to predict if an employee should seek treatment based on the selected features from the survey.
 
 - Tools & Skills: Tableau.
